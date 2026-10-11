@@ -1,0 +1,13 @@
+# System files
+.DS_Store
+Thumbs.db
+
+# Backups and temp files
+*~
+*.swp
+*.bak
+*.tmp
+
+# Hermes local runs
+output/
+*.log
